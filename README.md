@@ -27,7 +27,8 @@ Pra acessar ele no telegram, basta chamar @ThomasORemedioBot. Os comandos dispon
 - [Node.js](https://nodejs.org/)
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 - [node-schedule](https://github.com/node-schedule/node-schedule)
-- [BotFather]()
+- [uuid](https://github.com/uuidjs/uuid)
+- [BotFather](https://telegram.me/BotFather)
 
 ## Como rodar localmente
 
